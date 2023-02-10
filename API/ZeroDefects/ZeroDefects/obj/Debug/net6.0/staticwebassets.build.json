@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "emzZiNtYuCy4zA5kJCxup7D19TE+INL/N9Xn456YgTI=",
+  "Source": "ZeroDefects.API",
+  "BasePath": "_content/ZeroDefects.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

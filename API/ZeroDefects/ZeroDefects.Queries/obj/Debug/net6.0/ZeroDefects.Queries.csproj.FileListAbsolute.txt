@@ -1,0 +1,15 @@
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Queries.deps.json
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Queries.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Queries.pdb
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Domain.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Domain.pdb
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.csproj.AssemblyReference.cache
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.AssemblyInfoInputs.cache
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.AssemblyInfo.cs
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.csproj.CoreCompileInputs.cache
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.csproj.CopyComplete
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\refint\ZeroDefects.Queries.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.pdb
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ref\ZeroDefects.Queries.dll

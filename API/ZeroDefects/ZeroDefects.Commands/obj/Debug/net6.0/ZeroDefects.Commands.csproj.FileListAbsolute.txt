@@ -1,0 +1,15 @@
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\bin\Debug\net6.0\ZeroDefects.Commands.deps.json
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\bin\Debug\net6.0\ZeroDefects.Commands.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\bin\Debug\net6.0\ZeroDefects.Commands.pdb
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\bin\Debug\net6.0\ZeroDefects.Domain.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\bin\Debug\net6.0\ZeroDefects.Domain.pdb
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.csproj.AssemblyReference.cache
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.AssemblyInfoInputs.cache
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.AssemblyInfo.cs
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.csproj.CoreCompileInputs.cache
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.csproj.CopyComplete
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\refint\ZeroDefects.Commands.dll
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ZeroDefects.Commands.pdb
+C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Commands\obj\Debug\net6.0\ref\ZeroDefects.Commands.dll

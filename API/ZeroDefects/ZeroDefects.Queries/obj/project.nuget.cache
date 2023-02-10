@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "/70x9wCV0n3WKwmHtOTgPrkoJD9zizOCUpqbuVqi24Ge42zvllILMrXxtuv6U3iv9fNIJ5ZtbfWrUA92RVV8nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chandrahas_reddy_Tal\\source\\repos\\ZeroDefects.SmartWorkInstructions.API\\API\\ZeroDefects\\ZeroDefects.Queries\\ZeroDefects.Queries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

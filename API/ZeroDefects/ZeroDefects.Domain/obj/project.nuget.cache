@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NRcGRa0ngRJe+DK8JyI3pcBNdybTyyV85QGfa8m80jh8e2oUjkf/QHMpEI/A1tXBNBnuU7rKwu/nR25ZG83BnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chandrahas_reddy_Tal\\source\\repos\\ZeroDefects.SmartWorkInstructions.API\\API\\ZeroDefects\\ZeroDefects.Domain\\ZeroDefects.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\mongodb.bson\\2.19.0\\mongodb.bson.2.19.0.nupkg.sha512",
+    "C:\\Users\\chandrahas_reddy_Tal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
