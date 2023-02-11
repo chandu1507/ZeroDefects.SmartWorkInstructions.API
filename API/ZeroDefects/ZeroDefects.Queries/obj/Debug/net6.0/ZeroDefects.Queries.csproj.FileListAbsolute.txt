@@ -13,3 +13,18 @@ C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\Zero
 C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\refint\ZeroDefects.Queries.dll
 C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.pdb
 C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ref\ZeroDefects.Queries.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Queries.deps.json
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Queries.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Queries.pdb
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Domain.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\bin\Debug\net6.0\ZeroDefects.Domain.pdb
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.csproj.AssemblyReference.cache
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.AssemblyInfoInputs.cache
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.AssemblyInfo.cs
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.csproj.CoreCompileInputs.cache
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.csproj.CopyComplete
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\refint\ZeroDefects.Queries.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ZeroDefects.Queries.pdb
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Queries\obj\Debug\net6.0\ref\ZeroDefects.Queries.dll

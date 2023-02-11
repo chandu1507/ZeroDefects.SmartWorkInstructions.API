@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MongoDB.Driver;
 using ZeroDefects.Commands.AddInstruction;
-using ZeroDefects.DBUtility.Models;
+
 using ZeroDefects.Domain.Interfaces;
 using ZeroDefects.Infrastructure.Configuration;
 using ZeroDefects.Infrastructure.Data;

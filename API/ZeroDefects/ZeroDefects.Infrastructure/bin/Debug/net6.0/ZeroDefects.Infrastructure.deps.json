@@ -18,9 +18,7 @@
           "MongoDB.Driver": "2.19.0",
           "System.IdentityModel.Tokens.Jwt": "6.26.1",
           "ZeroDefects.Commands": "1.0.0",
-          "ZeroDefects.Domain": "1.0.0",
-          "ZeroDefects.DBContext": "1.0.0.0",
-          "ZeroDefects.DBUtility": "1.0.0.0"
+          "ZeroDefects.Domain": "1.0.0"
         },
         "runtime": {
           "ZeroDefects.Infrastructure.dll": {}
@@ -519,22 +517,6 @@
         "runtime": {
           "ZeroDefects.Domain.dll": {}
         }
-      },
-      "ZeroDefects.DBContext/1.0.0.0": {
-        "runtime": {
-          "ZeroDefects.DBContext.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "ZeroDefects.DBUtility/1.0.0.0": {
-        "runtime": {
-          "ZeroDefects.DBUtility.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -985,16 +967,6 @@
     },
     "ZeroDefects.Domain/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ZeroDefects.DBContext/1.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ZeroDefects.DBUtility/1.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

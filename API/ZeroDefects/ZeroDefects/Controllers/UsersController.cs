@@ -31,14 +31,14 @@ namespace ZeroDefects.API.Controllers
         [AllowAnonymous]
         [Route("authenticate")]
         [HttpPost]
-        public async Task<IActionResult> Login([FromBody]UserDto user)
+        public async Task<IActionResult> Login([FromBody] LoginDto loginDto)
         {
-            var token = _userRepository.Authenticate(user.UserName, user.Password);
+            var token = _userRepository.Authenticate(loginDto.UserName, loginDto.Password);
             if (token==null)
             {
                 return Unauthorized();
             }
-            return Ok(new { token, user });
+            return Ok(new { token.Result});
         }
         [HttpGet]
         public async Task<ActionResult<IEnumerable<User>>> Get()

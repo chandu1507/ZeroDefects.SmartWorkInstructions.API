@@ -19,10 +19,12 @@ namespace ZeroDefects.Infrastructure.Data.Repositories
         private readonly IMongoCollection<User> _dbCollection;
         private readonly FilterDefinitionBuilder<User> _filterBuilder = Builders<User>.Filter;
         private readonly string key;
+        private readonly IConfiguration Configuration;
         public UserRepository(IMongoDatabase database,IConfiguration configuration)
         {
             _dbCollection = database.GetCollection<User>(CollectionName);
-            key = configuration.GetSection("JwtKey").ToString();
+            Configuration = configuration;
+            key = Configuration["JwtKey"].ToString();
         }
         public async Task AddUserAsync(User user)
         {

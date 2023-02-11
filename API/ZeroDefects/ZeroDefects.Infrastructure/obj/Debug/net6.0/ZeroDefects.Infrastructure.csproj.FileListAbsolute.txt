@@ -19,3 +19,20 @@ C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6
 C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\refint\ZeroDefects.Infrastructure.dll
 C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.pdb
 C:\Ch@ndu\Zero Defects\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ref\ZeroDefects.Infrastructure.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.AssemblyInfo.cs
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\refint\ZeroDefects.Infrastructure.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.pdb
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\bin\Debug\net6.0\ZeroDefects.Infrastructure.deps.json
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\bin\Debug\net6.0\ZeroDefects.Infrastructure.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\bin\Debug\net6.0\ZeroDefects.Infrastructure.pdb
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\bin\Debug\net6.0\ZeroDefects.Commands.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\bin\Debug\net6.0\ZeroDefects.Domain.dll
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\bin\Debug\net6.0\ZeroDefects.Commands.pdb
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\bin\Debug\net6.0\ZeroDefects.Domain.pdb
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ZeroDefects.Infrastructure.csproj.CopyComplete
+C:\Users\chandrahas_reddy_Tal\source\repos\ZeroDefects.SmartWorkInstructions.API\API\ZeroDefects\ZeroDefects.Infrastructure\obj\Debug\net6.0\ref\ZeroDefects.Infrastructure.dll
